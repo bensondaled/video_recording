@@ -1,6 +1,6 @@
 To make a recording:
 (1) Open the "video_recording" folder where this instruction file lives
-(2) Edit desired parameters in the acq.py file (open it in TextMate, not TextEdit)
+(2) Edit desired parameters in the acq.py file
 (3) Double-click run.sh and follow instructions
 (4) Recordings are saved in the "data" folder within this video_recording folder
 
