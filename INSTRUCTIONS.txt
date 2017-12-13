@@ -1,0 +1,18 @@
+To make a recording:
+(1) Open the "video_recording" folder where this instruction file lives
+(2) Edit desired parameters in the acq.py file (open it in TextMate, not TextEdit)
+(3) Double-click run.sh and follow instructions
+(4) Recordings are saved in the "data" folder within this video_recording folder
+
+To view a recording:
+(1) Open VLC
+(2) Drag the avi file of interest from the data folder into VLC to play it
+(3) Timestamps for each frame are in the accompanying text file 
+
+Tips and Troublshooting:
+(1) Highly recommended: each time you begin an experiment, confirm that this setup works by doing a test recording and inspecting it.
+(2) High framerates/resolution can lead to difficulties in saving properly. Perform a test for each recording parameter you change.
+(3) If anything acts strange, close all windows, then disconnect and reconnect the camera. Then try again.
+
+December 7 2017
+deverett@princeton.edu
